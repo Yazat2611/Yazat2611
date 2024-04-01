@@ -1,6 +1,7 @@
+<h1 align="center">👋 Hi I'm Yazat Sharma</h1>
+<h3 align="center">A passionate developer and coder from India</h3>
 # 💫 About Me:
-🔭 I’m currently working on -> Mern Stack<br>💬 Ask me about -> Dsa and Development<br>🧑‍💻All my progress on -> github.com/Yazat2611<br>📫 Contact me -> yazatbhardvaj2611@gmail.com
-
+🔭 I’m currently working on -> Mern Stack<br>💬 Ask me about -> Dsa and Development<br>🧑‍💻All my progress on -> <a href="https://github.com/Yazat2611">Github</a><br>📫 Contact me -> <a href="mailto:yazatbhardvaj2611@gmail.com">Email</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yazat_622/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yazat-sharma-318922234/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/sharma_yazat) 
