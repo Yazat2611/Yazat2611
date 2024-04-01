@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi I'm Yazat Sharma</h1>
-<h3 align="center">A passionate developer and coder from India</h3>
-# 💫 About Me:
+<💫 About Me: <h3 align="center">A Learner Coder developer maybe one day will be a perfectionist</h3>
 🔭 I’m currently working on -> Mern Stack<br>💬 Ask me about -> Dsa and Development<br>🧑‍💻All my progress on -> <a href="https://github.com/Yazat2611">Github</a><br>📫 Contact me -> <a href="mailto:yazatbhardvaj2611@gmail.com">Email</a>
 
 ## 🌐 Socials:
